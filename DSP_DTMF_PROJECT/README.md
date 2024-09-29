@@ -1,7 +1,7 @@
 # DTMF Signal Processing Project
 
 ## Overview
-This project, part of the "Ψηφιακή Επεξεργασία Σήματος (Κ32)" course, focuses on the generation, filtering, and decoding of 
+This project, part of the "Digital Signal Processing (DSP)" course, focuses on the generation, filtering, and decoding of 
 Dual-Tone Multi-Frequency (DTMF) signals using MATLAB. The project implements several signal processing tasks related to 
 phone number digit identification and manipulation based on DTMF tones. In my case I used Gnu-Octave instead of Matlab.
 
