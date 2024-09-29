@@ -29,5 +29,3 @@ The DTMF system is used for telephone signaling, where each digit is represented
    Decodes a DTMF signal from the file `secret_number.wav` and returns the corresponding telephone number. The function applies appropriate digital filters to identify the frequency pairs and map them to the respective digits.
 
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
